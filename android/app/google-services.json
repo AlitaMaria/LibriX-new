@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "122154039374",
+    "firebase_url": "https://librix-8ebc4-default-rtdb.firebaseio.com",
+    "project_id": "librix-8ebc4",
+    "storage_bucket": "librix-8ebc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122154039374:android:7a4cad30720d0c12ffab1f",
+        "android_client_info": {
+          "package_name": "com.example.learningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRJTIZGZnNMSMC-gRwpoqRbxFg8heHCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
